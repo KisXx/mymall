@@ -13,7 +13,7 @@ export default {
 <style scoped>
   .back-top{
     position: fixed;
-    right: 10px;
+    right: 8px;
     bottom: 50px;
   }
 
